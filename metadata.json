@@ -1,0 +1,7 @@
+{
+  "name": "肾益康 Plus - 慢性肾炎健康管理",
+  "description": "专为慢性肾炎患者设计的全方位管理平台，包含体征监测、药物提醒、饮食记录及 AI 肾脏健康分析。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
